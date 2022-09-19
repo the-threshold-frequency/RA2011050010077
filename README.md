@@ -1,2 +1,3 @@
 # VAC-WEBPAGE
-### I am a blockchain enthusiast and smart contract developer, aslo have a keen interest in artificial intelligence and machine learning.
+### Day 1
+Learnt about Git and Github, html and web page development. 
